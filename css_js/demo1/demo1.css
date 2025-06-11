@@ -1,0 +1,16 @@
+/* This example demostrate the box model by styling a button*/
+.btn-register {
+  margin-top: 90px;
+  margin-left: 260px;
+  padding: 8px 15px;
+  border-radius: 3px;
+  background-color: red;
+  color: white;
+  border-style: none;
+}
+.btn-register:hover {
+  /* background-color: white;
+  color: red; */
+  /* opacity: 0.5; */
+  transform: scale(1.1);
+}
